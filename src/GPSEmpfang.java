@@ -34,8 +34,6 @@ public class GPSEmpfang {
         for (int r = 0; r < laufzeiten.length; r++) {
             if (laufzeiten[r] > 0) {
                 System.out.println("Laufzeit : " + laufzeiten[r] + " ms");
-            }else {
-
             }
         }
 
